@@ -1,0 +1,11 @@
+site_name: Documentació de Pràctiques Git
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+
+nav:
+  - Inici: index.md
+  - Pràctica 1 - Introducció: practica1.md
+  - Pràctica 2 - Branques i Merges: practica2.md
